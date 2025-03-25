@@ -51,7 +51,7 @@ const Hero = () => {
                 ))}
               </div>
               <span className="ml-4 text-sm text-foreground/80">
-                Joined by <span className="font-semibold">2,000+</span> users & service providers
+                Joined  <span className="font-semibold">2,000+</span> users & service providers
               </span>
             </div>
           </div>
